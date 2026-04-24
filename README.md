@@ -3,33 +3,33 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Anchal%20Kansara&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">💻 Software Engineer | Backend & ML Enthusiast</h2>
+<h2 align="center">🤖 Machine Learning Enthusiast | Problem Solver</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Projects;Backend+Developer;Computer+Vision+Projects;Building+Real+World+Solutions&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=200%2B+Striver+Sheet+Problems;Machine+Learning+Projects;Computer+Vision+Work;Backend+Development+Basics&center=true&width=600&height=45">
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 B.Tech Student @ GJUS&T, Hisar  
-- 💻 Focused on *Backend Development & Machine Learning*  
-- 🧠 Strong interest in *Data Structures & Algorithms*  
-- ⚡ Love building real-world ML and backend systems  
-- 🚀 Passionate about solving practical problems using technology  
+- 🤖 Strong focus on *Machine Learning & Computer Vision*  
+- 🧠 Solved *200+ DSA problems (Striver Sheet)*  
+- 💻 Basic experience in *Backend Development*  
+- ⚡ Passionate about solving real-world problems using data and logic  
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode" />
 </p>
 
 ---
 
 ## 🏗️ Projects
-- ❤️ *Heart Disease Prediction System* — Flask + ML (85% accuracy)  
-- ✋ *Gesture Recognition System* — Computer Vision (Real-time, 90% accuracy)  
+- ❤️ *Heart Disease Prediction System* — Machine Learning model (~85% accuracy)  
+- ✋ *Gesture Recognition System* — Real-time Computer Vision (~90% accuracy)  
 
 ---
 
@@ -46,9 +46,10 @@
 ---
 
 ## 🎯 What I'm Focused On
-- 🤖 Machine Learning & Computer Vision  
-- 💻 Backend development using Python frameworks  
-- ⚡ Writing efficient and scalable solutions  
+- 🤖 Machine Learning & Model Building  
+- 🧠 Improving problem-solving (DSA)  
+- 📊 Working with data-driven applications  
+- ⚡ Building efficient and logical solutions  
 
 ---
 
