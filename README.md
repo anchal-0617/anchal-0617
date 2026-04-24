@@ -1,34 +1,69 @@
-# 💫 About Me:
-Software Engineer with strong interest in backend development and machine learning  
-Focused on building efficient systems and solving real-world problems  
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Anchal%20Kansara&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h2 align="center">💻 Software Engineer | Backend & ML Enthusiast</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Projects;Backend+Developer;Computer+Vision+Projects;Building+Real+World+Solutions&center=true&width=600&height=45">
+</p>
 
 ---
 
-## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anchal0617@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anchal-kansara-107918290/)  
+## 🚀 About Me
+- 🎓 B.Tech Student @ GJUS&T, Hisar  
+- 💻 Focused on *Backend Development & Machine Learning*  
+- 🧠 Strong interest in *Data Structures & Algorithms*  
+- ⚡ Love building real-world ML and backend systems  
+- 🚀 Passionate about solving practical problems using technology  
 
 ---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,mysql,git,github,vscode" />
+</p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anchal-0617&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=anchal-0617&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anchal-0617&theme=dark&hide_border=false&layout=compact)
+## 🏗️ Projects
+- ❤️ *Heart Disease Prediction System* — Flask + ML (85% accuracy)  
+- ✋ *Gesture Recognition System* — Computer Vision (Real-time, 90% accuracy)  
 
 ---
 
-## 👀 Profile Views:
-[![](https://komarev.com/ghpvc/?username=anchal-0617&color=blue)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anchal-0617&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=anchal-0617&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchal-0617&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 What I'm Focused On
+- 🤖 Machine Learning & Computer Vision  
+- 💻 Backend development using Python frameworks  
+- ⚡ Writing efficient and scalable solutions  
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:anchal0617@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anchal-kansara-107918290/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
+</p>
